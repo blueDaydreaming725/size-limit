@@ -1,0 +1,21 @@
+packages/size-limit/test/get-config.test.js
+  s_e5720201168b5c::t_5069c437a3c11c 173,184
+packages/size-limit/parse-args.js
+  s_e5720201168b5c::t_bce43baadbcf3b 73
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "0778d8ebc4c48f5c1db206d1a4b0ba9c80409445",
+  "prompts": {},
+  "sessions": {
+    "s_e5720201168b5c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18091-0c6a-7c10-8b99-04407006f7b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yuxuan.weng <wengyx@trip.com>"
+    }
+  }
+}
