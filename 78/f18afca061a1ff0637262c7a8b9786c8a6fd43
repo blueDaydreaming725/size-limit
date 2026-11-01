@@ -1,0 +1,21 @@
+packages/size-limit/test/index.test.js
+  s_e5720201168b5c::t_e93fc4d471e48a 23-29
+packages/size-limit/calc.js
+  s_e5720201168b5c::t_35ae9d10000311 7
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "78f18afca061a1ff0637262c7a8b9786c8a6fd43",
+  "prompts": {},
+  "sessions": {
+    "s_e5720201168b5c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a18091-0c6a-7c10-8b99-04407006f7b3",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "yuxuan.weng <wengyx@trip.com>"
+    }
+  }
+}
